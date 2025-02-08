@@ -10,11 +10,7 @@ git clone https://github.com/your-username/music-recognizer.git
 
 ## Usage
 
-The project contains Jupyter notebooks with initial implementations of the models:
-
-- `basic_CNN.ipynb`: A basic Convolutional Neural Network (CNN) approach.
-- `LSTM.ipynb`: An implementation using Long Short-Term Memory (LSTM) networks.
-- `resnet50.ipynb`: An implementation using the ResNet50 model.
+The project contains Jupyter notebooks with implementations of the models:
 
 To run the notebooks, open them in Jupyter Lab or Jupyter Notebook and execute the cells sequentially.
 
@@ -26,6 +22,8 @@ https://github.com/mdeff/fma/tree/master -> fma_small.zip
 Contributions to the project are welcome. If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
 ## Acknowledgments
+Shreyas Kannan -> https://github.com/ShreyasKannan123
+
 Vikas Kumar -> https://github.com/thisisvk45
 
 Rachit Gupta -> https://github.com/rachitgupta007
